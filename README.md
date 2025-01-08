@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
