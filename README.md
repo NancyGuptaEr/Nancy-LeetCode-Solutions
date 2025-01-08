@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
 |  |
@@ -51,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
