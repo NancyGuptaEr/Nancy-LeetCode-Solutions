@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
