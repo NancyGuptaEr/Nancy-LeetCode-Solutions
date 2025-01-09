@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
