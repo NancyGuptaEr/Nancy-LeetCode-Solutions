@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -135,5 +137,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
