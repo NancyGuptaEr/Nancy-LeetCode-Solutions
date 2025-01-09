@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Stack
 |  |
@@ -160,4 +162,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
