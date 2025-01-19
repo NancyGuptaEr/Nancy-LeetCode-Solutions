@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        //TC = O(m*n), SC = O(m*n)
         vector<int> result;
         if(matrix.empty() || matrix[0].empty()) {
             return result;
