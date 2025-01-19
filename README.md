@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
