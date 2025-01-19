@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool canConstruct(string ransomNote, string magazine) {
+        //TC = O(m+n), SC = O(m)
+        if(ransomNote.empty()) {
+            return true;
+        }
+        if(magazine.empty())    {
+            return false;
+        }
+        unordered_map<char, int> freq;
+        for(char c:magazine)    {
+            freq[c]++;
+        }
+        for(char c:ransomNote)  {
+            if(freq[c] == 0)
+                return false;
+            else
+                freq[c]--;
+        }
+        return true;
+    }
+};
