@@ -31,11 +31,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
 |  |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/NancyGuptaEr/Nancy-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
